@@ -56,6 +56,59 @@ chapter 7: Making Decisions
 7.2 Choosing Alternatives Using the if...else Statement
 ---------------------------------------------------------
 
+선택의 상황이나 2가지 이상의 조건이 붙었을경우 처리하는 구문이다.
+기본적 형태는 다음과 같다.
+
+.. sourcecode:: pycon
+
+    if  조건    :
+        print("xxxx")
+    else
+        print("yyy")
+
+다음 예제를 출력해 보자.
+
+.. code-block:: python
+
+
+    Value = int(input("Type a number between 1 and 10: "))
+
+    if (Value > 0) and (Value <= 10):
+       print("You typed: ", Value)
+    else:
+       print("The value you typed is incorrect!")
+
+
+
+
+다음은 여려 조건이 있을경우 elif을 쓰는 법을 나타낸다.
+
+
+.. code-block:: python
+
+    print("1. Red")
+    print("2. Orange")
+    print("3. Yellow")
+    print("4. Green")
+    print("5. Blue")
+    print("6. Purple")
+
+    Choice = int(input("Select your favorite color: "))
+
+    if (Choice == 1):
+       print("You chose Red!")
+    elif (Choice == 2):
+       print("You chose Orange!")
+    elif (Choice == 3):
+       print("You chose Yellow!")
+    elif (Choice == 4):
+       print("You chose Green!")
+    elif (Choice == 5):
+       print("You chose Blue!")
+    elif (Choice == 6):
+       print("You chose Purple!")
+    else:
+       print("You made an invalid choice!")
 
 
 
@@ -63,3 +116,77 @@ chapter 7: Making Decisions
 ----------------------------------------
 
 
+조건이 2개 이상 발생할때 먼저 조건이 해결된후 다음 조건이 생겼을때 표현이다.
+이럴경우는 if문 안에 다시 if문을 넣어 처리하게 된다.
+
+
+다음 예제를 출력해 보자.
+
+.. code-block:: python
+
+
+    One = int(input("Type a number between 1 and 10: "))
+    Two = int(input("Type a number between 1 and 10: "))
+
+    if (One >= 1) and (One <= 10):
+       if (Two >= 1) and (Two <= 10):
+          print("Your secret number is: ", One * Two)
+       else:
+          print("Incorrect second value!")
+    else:
+       print("Incorrect first value!")
+
+다음은 복합적인 if,elif 조건문 예제이다.
+
+
+.. code-block:: python
+
+    print("1. Eggs")
+    print("2. Pancakes")
+    print("3. Waffles")
+    print("4. Oatmeal")
+    MainChoice = int(input("Choose a breakfast item: "))
+
+    if (MainChoice == 2):
+       Meal = "Pancakes"
+    elif (MainChoice == 3):
+       Meal = "Waffles"
+
+    if (MainChoice == 1):
+       print("1. Wheat Toast")
+       print("2. Sour Dough")
+       print("3. Rye Toast")
+       print("4. Pancakes")
+       Bread = int(input("Choose a type of bread: "))
+
+       if (Bread == 1):
+          print("You chose eggs with wheat toast.")
+       elif (Bread == 2):
+          print("You chose eggs with sour dough.")
+       elif (Bread == 3):
+          print("You chose eggs with rye toast.")
+       elif (Bread == 4):
+          print("You chose eggs with pancakes.")
+       else:
+          print("We have eggs, but not that kind of bread.")
+
+    elif (MainChoice == 2) or (MainChoice == 3):
+       print("1. Syrup")
+       print("2. Strawberries")
+       print("3. Powdered Sugar")
+       Topping = int(input("Choose a topping: "))
+
+       if (Topping == 1):
+          print ("You chose " + Meal + " with syrup.")
+       elif (Topping == 2):
+          print ("You chose " + Meal + " with strawberries.")
+       elif (Topping == 3):
+          print ("You chose " + Meal + " with powdered sugar.")
+       else:
+          print ("We have " + Meal + ", but not that topping.")
+
+    elif (MainChoice == 4):
+       print("You chose oatmeal.")
+
+    else:
+       print("We don't serve that breakfast item!")
