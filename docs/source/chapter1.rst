@@ -27,20 +27,23 @@ Next time I will upate contents
 Discovering which organizationsuse Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-::
-✓ Alice Educational Software – Carnegie Mellon University (http://www.cmu.edu/corporate/news/2007/features/alice.shtml):Educational applications
-✓ Fermilab (https://www.fnal.gov/): Scientific applications
-✓ Go.com (http://go.com/): Browser-based applications
-✓ Google (https://www.google.com/): Search engine
-✓ Industrial Light & Magic (http://www.ilm.com/): Just about everyprogramming need
-✓ Lawrence Livermore National Library (https://www.llnl.gov/):Scientific applications
-✓ National Space and Aeronautics Administration (NASA) (http://www.nasa.gov/): Scientific applications
-✓ New York Stock Exchange (https://nyse.nyx.com/): Browser-based applications
-✓ ObjectDomain (http://case-tools.org/tools/objectdomain.html): Computer Aided Software Engineering (CASE) tools
-✓ Redhat (http://www.redhat.com/): Linux installation tools
-✓ Yahoo! (https://www.yahoo.com/): Parts of Yahoo! mail
-✓ YouTube (http://www.youtube.com/): Graphics engine
-✓ Zope – Digital Creations (http://www.zope.com/): Publishing application
+.. sourcecode:: pycon
+
+    ✓ Alice Educational Software – Carnegie Mellon University (http://www.cmu.edu/corporate/news/2007/features/alice.shtml):Educational applications
+    ✓ Fermilab (https://www.fnal.gov/): Scientific applications
+    ✓ Go.com (http://go.com/): Browser-based applications
+    ✓ Google (https://www.google.com/): Search engine
+    ✓ Industrial Light & Magic (http://www.ilm.com/): Just about everyprogramming need
+    ✓ Lawrence Livermore National Library (https://www.llnl.gov/):Scientific applications
+    ✓ National Space and Aeronautics Administration (NASA) (http://www.nasa.gov/): Scientific applications
+    ✓ New York Stock Exchange (https://nyse.nyx.com/): Browser-based applications
+    ✓ ObjectDomain (http://case-tools.org/tools/objectdomain.html): Computer Aided Software Engineering (CASE) tools
+    ✓ Redhat (http://www.redhat.com/): Linux installation tools
+    ✓ Yahoo! (https://www.yahoo.com/): Parts of Yahoo! mail
+    ✓ YouTube (http://www.youtube.com/): Graphics engine
+    ✓ Zope – Digital Creations (http://www.zope.com/): Publishing application
+
+
 
 Python Application
 ~~~~~~~~~~~~~~~~~~~~
@@ -57,38 +60,39 @@ https://wiki.python.org/moin/LanguageComparisons
 c# & Python
 ~~~~~~~~~~~~~~
 Python은 C# 과 더불어 다음과 같은 장점이 있다.
-::
+.. sourcecode:: pycon
 
-✓ Significantly easier to learn
-✓ Smaller (more concise) code
-✓ Supported fully as open source
-✓ Better multiplatform support
-✓ Easily allows use of multiple development environments
-✓ Easier to extend using Java and C/C++
-✓ Enhanced scientific and engineering support
+    ✓ Significantly easier to learn
+    ✓ Smaller (more concise) code
+    ✓ Supported fully as open source
+    ✓ Better multiplatform support
+    ✓ Easily allows use of multiple development environments
+    ✓ Easier to extend using Java and C/C++
+    ✓ Enhanced scientific and engineering support
 
 Java
 ~~~~~~
 자바는 다음과 같은 장점이 있다.
-::
+.. sourcecode:: pycon
 
-✓ Significantly easier to learn
-✓ Smaller (more concise) code
-✓ Enhanced variables (storage boxes in computer memory) that can hold
-different kinds of data based on the application’s needs while running
-(dynamic typing)
-✓ Faster development times
+    ✓ Significantly easier to learn
+    ✓ Smaller (more concise) code
+    ✓ Enhanced variables (storage boxes in computer memory) that can hold
+    different kinds of data based on the application’s needs while running
+    (dynamic typing)
+    ✓ Faster development times
 
 Perl
 ~~~~~
 Perl은 다음과 같은 장점이 있다.
 
-::
-✓ Simpler to learn
-✓ Easier to read
-✓ Enhanced protection for data
-✓ Better Java integration
-✓ Fewer platform-specific biases
+.. sourcecode:: pycon
+
+    ✓ Simpler to learn
+    ✓ Easier to read
+    ✓ Enhanced protection for data
+    ✓ Better Java integration
+    ✓ Fewer platform-specific biases
 
 
 각각의 언어별로 장단점은 있지만 많이 쓰이는 언어를 기본으로 배우는것이 유리하다.

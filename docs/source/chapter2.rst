@@ -15,30 +15,30 @@ chapter 2: Getting Your Own Copy of Python
 
 파이썬은 다음과 같은 OS 플랫폼을 지원합니다.
 
-::
+.. sourcecode:: pycon
 
-✓ Advanced IBM Unix (AIX)
-✓ Amiga Research OS (AROS)
-✓ Application System 400 (AS/400)
-✓ BeOS
-✓ Hewlett-Packard Unix (HP-UX)
-✓ Linux
-✓ Mac OS X (comes pre-installed with the OS)
-✓ Microsoft Disk Operating System (MS-DOS)
-✓ MorphOS
-✓ Operating System 2 (OS/2)
-✓ Operating System 390 (OS/390) and z/OS
-✓ PalmOS
-✓ Playstation
-✓ Psion
-✓ QNX
-✓ RISC OS (originally Acorn)
-✓ Series 60
-✓ Solaris
-✓ Virtual Memory System (VMS)
-✓ Windows 32-bit (XP and later)
-✓ Windows 64-bit
-✓ Windows CE/Pocket PC
+    ✓ Advanced IBM Unix (AIX)
+    ✓ Amiga Research OS (AROS)
+    ✓ Application System 400 (AS/400)
+    ✓ BeOS
+    ✓ Hewlett-Packard Unix (HP-UX)
+    ✓ Linux
+    ✓ Mac OS X (comes pre-installed with the OS)
+    ✓ Microsoft Disk Operating System (MS-DOS)
+    ✓ MorphOS
+    ✓ Operating System 2 (OS/2)
+    ✓ Operating System 390 (OS/390) and z/OS
+    ✓ PalmOS
+    ✓ Playstation
+    ✓ Psion
+    ✓ QNX
+    ✓ RISC OS (originally Acorn)
+    ✓ Series 60
+    ✓ Solaris
+    ✓ Virtual Memory System (VMS)
+    ✓ Windows 32-bit (XP and later)
+    ✓ Windows 64-bit
+    ✓ Windows CE/Pocket PC
 
 주로 많이 교육용으로 쓰이는 OS는 Windows 10 내지 Linux가 될것이다.
 다음 사이트에 가서 해당 OS에 맞는 Python 프로그램을 받아야 한다.
@@ -77,12 +77,12 @@ windows 인스톨 버젼은 Default로 인스톨해도 되지만 특정 Director
     print("This is my first Python program.”)
 
 Python IDLE에서 표시되는 색깔은 다음을 표현한다.
-::
+.. sourcecode:: pycon
 
-✓ Purple: Indicates that you have typed a command
-✓ Green: Specifies the content sent to a command
-✓ Blue: Shows the output from a command
-✓ Black: Defines non-command entries
+    ✓ Purple: Indicates that you have typed a command
+    ✓ Green: Specifies the content sent to a command
+    ✓ Blue: Shows the output from a command
+    ✓ Black: Defines non-command entries
 
 
 터미널에서 다음을 실행해 보자.

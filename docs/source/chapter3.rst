@@ -1,21 +1,21 @@
 chapter 3: Interacting with Python
 =====================================
 이 장에서는 다음을 배우게 될것이다.
-::
+.. sourcecode:: pycon
 
-▶ Accessing the command line
-▶ Using commands to perform tasks
-▶ Obtaining help about Python
-▶ Ending a command-line session
+    ▶ Accessing the command line
+    ▶ Using commands to perform tasks
+    ▶ Obtaining help about Python
+    ▶ Ending a command-line session
 
 모든 프로그램에서 다음의 개념은 필수이다.
 CRUD
-::
+.. sourcecode:: pycon
 
-✓ Create
-✓ Read
-✓ Update
-✓ Delete
+    ✓ Create
+    ✓ Read
+    ✓ Update
+    ✓ Delete
 
 
 
