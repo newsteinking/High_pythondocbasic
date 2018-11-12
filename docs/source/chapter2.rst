@@ -3,6 +3,8 @@ chapter 2: Getting Your Own Copy of Python
 
 이 장에서는 다음 내용을 배우게 됩니다.
 
+.. sourcecode:: pycon
+
 ▶ Obtaining a copy of Python for your system
 ▶ Performing the Python installation
 ▶ Finding and using Python on your system
@@ -77,6 +79,7 @@ windows 인스톨 버젼은 Default로 인스톨해도 되지만 특정 Director
     print("This is my first Python program.”)
 
 Python IDLE에서 표시되는 색깔은 다음을 표현한다.
+
 .. sourcecode:: pycon
 
     ✓ Purple: Indicates that you have typed a command

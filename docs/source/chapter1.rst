@@ -2,6 +2,8 @@ chapter 1: Talking to Your Computer
 ======================================
 이장에서는 다음을 공부하게 됩니다.
 
+.. sourcecode:: pycon
+
 ▶ Talking to your computer
 ▶ Creating programs to talk to your computer
 ▶ Understanding what a program does and why you want to create it
@@ -60,6 +62,7 @@ https://wiki.python.org/moin/LanguageComparisons
 c# & Python
 ~~~~~~~~~~~~~~
 Python은 C# 과 더불어 다음과 같은 장점이 있다.
+
 .. sourcecode:: pycon
 
     ✓ Significantly easier to learn
@@ -73,6 +76,7 @@ Python은 C# 과 더불어 다음과 같은 장점이 있다.
 Java
 ~~~~~~
 자바는 다음과 같은 장점이 있다.
+
 .. sourcecode:: pycon
 
     ✓ Significantly easier to learn
