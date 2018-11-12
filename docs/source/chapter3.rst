@@ -1,6 +1,8 @@
 chapter 3: Interacting with Python
 =====================================
 이 장에서는 다음을 배우게 될것이다.
+
+
 .. sourcecode:: pycon
 
     ▶ Accessing the command line
@@ -46,7 +48,15 @@ CRUD
     help()
 
 help 화면으로 들어가면 다양한 명령어에 설명을 볼 수 있다.
+아무것도 입력 안하고 Enter를 누르면 help 화면을 빠져 나올 수 있다.
 
+
+topics,FUNCTIONS 도 실행해 보자.
+
+직접 help를 호출 할 수도 있다.
+.. code-block:: python
+
+    help('topics') or help("topcis")
 
 
 3.4 Closing the Command Line

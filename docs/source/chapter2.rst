@@ -5,10 +5,10 @@ chapter 2: Getting Your Own Copy of Python
 
 .. sourcecode:: pycon
 
-▶ Obtaining a copy of Python for your system
-▶ Performing the Python installation
-▶ Finding and using Python on your system
-▶ Ensuring your installation works as planned
+    ▶ Obtaining a copy of Python for your system
+    ▶ Performing the Python installation
+    ▶ Finding and using Python on your system
+    ▶ Ensuring your installation works as planned
 
 
 

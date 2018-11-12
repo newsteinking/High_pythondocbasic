@@ -1,29 +1,21 @@
 chapter 6: Managing Information
 ==================================
 
+이 장에서는 다음을 배우게 된다.
+
+.. sourcecode:: pycon
+
+    ▶ Understanding the Python view of data
+    ▶ Using operators to assign, modify, and compare data
+    ▶ Organizing code using functions
+    ▶ Interacting with the user
+
+
 
 6.1 Controlling How Python Views Data
 ---------------------------------------
 
-6.1.1 Linux
-~~~~~~~~~~~~~~~~
 
-Automatic Install Script
-
-
-::
-
-    $ sudo wget -qO- https://get.docker.com/ | sh
-
-remove hell-world
-
-::
-
-    $ sudo docker rm `sudo docker ps -aq`
-    $ sudo docker rmi hello-world
-
-
-.
 
 6.2 Working with Operators
 ------------------------------

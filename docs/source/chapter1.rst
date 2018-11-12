@@ -4,10 +4,10 @@ chapter 1: Talking to Your Computer
 
 .. sourcecode:: pycon
 
-▶ Talking to your computer
-▶ Creating programs to talk to your computer
-▶ Understanding what a program does and why you want to create it
-▶ Considering why you want to use Python as your programming language
+    ▶ Talking to your computer
+    ▶ Creating programs to talk to your computer
+    ▶ Understanding what a program does and why you want to create it
+    ▶ Considering why you want to use Python as your programming language
 
 
 1.1 Understanding Why You Want to Talk to Your Computer
