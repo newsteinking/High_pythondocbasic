@@ -33,20 +33,26 @@ IDLE은 다음과 같은 기능을 가지고 있다.
 
 4.2 Starting IDLE
 -------------------
+
 실습을 해보자.
-Next time I will upate contents
+
+Next time I will upate contents.
 
 
 
 4.3 Creating the Application
 -------------------------------
+
 실습을 해보자.
+
 Next time I will upate contents
 
 
 4.4 Running the Application
 -----------------------------
+
 실습을 해보자.
+
 FirstApp.py 를 만들어 보자.
 
 .. code-block:: python
@@ -57,26 +63,29 @@ FirstApp.py 를 만들어 보자.
 4.5 Understanding the Use of Indentation
 -----------------------------------------
 실습을 해보자.
-Next time I will upate contents
+
+Next time I will upate contents.
 
 4.6 Adding Comments
 -------------------------
 실습을 해보자.
-Next time I will upate contents
+
+Next time I will upate contents.
 
 4.7 Loading and Running Existing Applications
 -----------------------------------------------
 
 실습을 해보자.
-Next time I will upate contents
+
+Next time I will upate contents.
 
 
 4.8 Closing IDLE
 -------------------
 
 실습을 해보자.
-Next time I will upate contents
 
+Next time I will upate contents.
 
 
 
