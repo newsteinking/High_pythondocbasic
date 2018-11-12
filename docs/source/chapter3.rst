@@ -1,33 +1,41 @@
 chapter 3: Interacting with Python
 =====================================
+이 장에서는 다음을 배우게 될것이다.
+
+▶ Accessing the command line
+▶ Using commands to perform tasks
+▶ Obtaining help about Python
+▶ Ending a command-line session
+
+모든 프로그램에서 다음의 개념은 필수이다.
+CRUD
+
+✓ Create
+✓ Read
+✓ Update
+✓ Delete
+
 
 
 3.1 Opening the Command Line
 ------------------------------
 
-3.1.1 Linux
-~~~~~~~~~~~~~~~~
-
-Automatic Install Script
+터미널에서 실행해 보자.
 
 
-::
-
-    $ sudo wget -qO- https://get.docker.com/ | sh
-
-remove hell-world
-
-::
-
-    $ sudo docker rm `sudo docker ps -aq`
-    $ sudo docker rmi hello-world
 
 
-.
 
 3.2 Typing a Command
 -------------------------
 
+도움말을 실행해 보자
+
+.. code-block:: python
+
+    help()
+
+help 화면으로 들어가면 다양한 명령어에 설명을 볼 수 있다.
 
 
 
