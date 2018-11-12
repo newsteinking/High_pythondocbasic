@@ -15,6 +15,8 @@ chapter 2: Getting Your Own Copy of Python
 
 파이썬은 다음과 같은 OS 플랫폼을 지원합니다.
 
+::
+
 ✓ Advanced IBM Unix (AIX)
 ✓ Amiga Research OS (AROS)
 ✓ Application System 400 (AS/400)
@@ -75,6 +77,7 @@ windows 인스톨 버젼은 Default로 인스톨해도 되지만 특정 Director
     print("This is my first Python program.”)
 
 Python IDLE에서 표시되는 색깔은 다음을 표현한다.
+::
 
 ✓ Purple: Indicates that you have typed a command
 ✓ Green: Specifies the content sent to a command
@@ -93,3 +96,4 @@ Python IDLE에서 표시되는 색깔은 다음을 표현한다.
 
 
 
+Next time I will upate contents

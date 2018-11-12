@@ -11,21 +11,23 @@ chapter 1: Talking to Your Computer
 1.1 Understanding Why You Want to Talk to Your Computer
 ----------------------------------------------------------
 
-
+Next time I will upate contents
 
 1.2 Defining What an Application Is
 ----------------------------------------
 
-
+Next time I will upate contents
 
 
 1.3 Understanding Why Python is So Cool
 --------------------------------------------
+Next time I will upate contents
 
 
 Discovering which organizationsuse Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+::
 ✓ Alice Educational Software – Carnegie Mellon University (http://www.cmu.edu/corporate/news/2007/features/alice.shtml):Educational applications
 ✓ Fermilab (https://www.fnal.gov/): Scientific applications
 ✓ Go.com (http://go.com/): Browser-based applications
@@ -55,6 +57,7 @@ https://wiki.python.org/moin/LanguageComparisons
 c# & Python
 ~~~~~~~~~~~~~~
 Python은 C# 과 더불어 다음과 같은 장점이 있다.
+::
 
 ✓ Significantly easier to learn
 ✓ Smaller (more concise) code
@@ -67,6 +70,7 @@ Python은 C# 과 더불어 다음과 같은 장점이 있다.
 Java
 ~~~~~~
 자바는 다음과 같은 장점이 있다.
+::
 
 ✓ Significantly easier to learn
 ✓ Smaller (more concise) code
@@ -79,7 +83,7 @@ Perl
 ~~~~~
 Perl은 다음과 같은 장점이 있다.
 
-
+::
 ✓ Simpler to learn
 ✓ Easier to read
 ✓ Enhanced protection for data
@@ -87,6 +91,7 @@ Perl은 다음과 같은 장점이 있다.
 ✓ Fewer platform-specific biases
 
 
+각각의 언어별로 장단점은 있지만 많이 쓰이는 언어를 기본으로 배우는것이 유리하다.
 
 
 
