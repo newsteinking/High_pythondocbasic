@@ -9,7 +9,7 @@ Python Basic
 
 .. image:: ./img/chapter0_3.png
 
-`Github <https://github.com/newsteinking/pythondocbasic>`_ | https://github.com/newsteinking/pythondocbasic
+`Github <https://github.com/newsteinking/HIGH_pythondocbasic>`_ | https://github.com/newsteinking/HIGH_pythondocbasic
 
 
 
