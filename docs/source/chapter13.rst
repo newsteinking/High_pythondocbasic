@@ -6,25 +6,7 @@ chapter 13: Collecting All Sorts of Data
 13.1 Understanding Collections
 --------------------------------
 
-13.1.1 Linux
-~~~~~~~~~~~~~~~~
 
-Automatic Install Script
-
-
-::
-
-    $ sudo wget -qO- https://get.docker.com/ | sh
-
-remove hell-world
-
-::
-
-    $ sudo docker rm `sudo docker ps -aq`
-    $ sudo docker rmi hello-world
-
-
-.
 
 13.2 Working with Tuples
 ----------------------------

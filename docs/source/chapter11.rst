@@ -6,25 +6,7 @@ chapter 11: Working with Strings
 11.1 Understanding That Strings Are Different
 -----------------------------------------------
 
-11.1.1 Linux
-~~~~~~~~~~~~~~~~
 
-Automatic Install Script
-
-
-::
-
-    $ sudo wget -qO- https://get.docker.com/ | sh
-
-remove hell-world
-
-::
-
-    $ sudo docker rm `sudo docker ps -aq`
-    $ sudo docker rmi hello-world
-
-
-.
 
 11.2 Creating Stings with Special Characters
 -----------------------------------------------
